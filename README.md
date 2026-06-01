@@ -380,3 +380,7 @@ It could be possible to document (and implement a nice interface for) this query
 ## Disclaimer
 
 This library is not endorsed or supported by LinkedIn. It is an unofficial library intended for educational purposes and personal use only. By using this library, you agree to not hold the author or contributors responsible for any consequences resulting from its usage.
+
+## Licencia
+
+MIT — © 2026 Ranuk IT Solutions | ranuk.dev
